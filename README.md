@@ -28,4 +28,4 @@ ref:
 
 https://medium.com/pierceshih/筆記-如何使用-node-js-建立一個本機伺服器-30b8d91c3ec1 (無 express)
 
-https://expressjs.com/zh-tw/starter/hello-world.html (有 express)
+https://expressjs.com/zh-tw/starter/installing.html (有 express)
