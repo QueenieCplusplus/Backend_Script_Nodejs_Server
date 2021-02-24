@@ -1,5 +1,7 @@
 # Backend_Script_Nodejs_Server
 
+使用 npm 之前，都請先至官網下載 Nodejs !
+
 在終端機 cd 此 file 的資料夾後，下指令 node filename 即可。
 
 
